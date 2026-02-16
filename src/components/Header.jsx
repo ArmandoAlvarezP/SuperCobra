@@ -4,6 +4,7 @@ import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
+
 const Header = () => {
     return (
         <header>
@@ -12,7 +13,7 @@ const Header = () => {
                 <Navbar.Brand href="#home">
                     <Row>
                         <Col lg={4} xs={8} md={6} sm={6} >
-                            <Image src="/logo.jpeg" width='180px' height='100px' rounded/>
+                            <Image src="/SC_0130.png" width='250px' height='250px'/>
                         </Col>
                     </Row>
                 </Navbar.Brand>

@@ -1,0 +1,31 @@
+.main {
+    background: #0e0e0e;
+    color: white;
+    padding: 20px;
+}
+
+
+.header {
+    background: #0a0a0a;
+}
+
+.footer {
+    background: #0a0a0a;
+    color: white;
+    padding: 50px;
+    text-align: center;
+}
+
+.nosotros {
+    background-image: url('/SC_fondo.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 50vmax;
+}
+
+.musica {
+    margin-top: 20px;
+    margin-bottom: 100px;
+    
+}
+
